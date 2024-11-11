@@ -1,16 +1,12 @@
-# flutter_state
+NAMA    : Samuel Rivaldo Saragih
+KELAS   : 2B TRPL
+NIM     : 362358302156
 
-A new Flutter project.
+1. Hasil Source Code
+![Gambar](image.png)
+2. Jelaskan maksud dari langkah 4 pada praktikum tersebut! Mengapa dilakukan demikian?
+menginisialisasi variabel atau mempersiapkan data yang akan digunakan di langkah berikutnya.
 
-## Getting Started
+3. Mengapa perlu variabel plan di langkah 6 pada praktikum tersebut? Mengapa dibuat konstanta ? Dibuat sebagai konstanta untuk memastikan nilainya tetap tidak berubah sepanjang eksekusi, menjaga konsistensi dan mencegah kesalahan.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Apa kegunaan method pada Langkah 11 dan 13 dalam lifecyle state ? Bisa digunakan untuk membersihkan atau menangani perubahan state saat widget dihancurkan atau diperbarui
